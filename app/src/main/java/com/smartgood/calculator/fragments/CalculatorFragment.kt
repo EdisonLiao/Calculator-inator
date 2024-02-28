@@ -67,6 +67,9 @@ class CalculatorFragment : Fragment() {
             } else if (binding.slidingPaneLayout.isOpen) {
                 binding.slidingPaneLayout.closePane()
                 remove()
+            }else {
+                requireActivity().finish()
+                remove()
             }
         }
         mainActivity.addMenuProvider(object : MenuProvider {
