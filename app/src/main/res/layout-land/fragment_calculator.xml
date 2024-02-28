@@ -52,7 +52,7 @@
 
     </androidx.slidingpanelayout.widget.SlidingPaneLayout>
 
-    <com.inator.calculator.views.DraggablePanel
+    <com.smartgood.calculator.views.DraggablePanel
         android:id="@+id/draggablePanel"
         android:layout_width="0dp"
         android:layout_height="0dp"
@@ -101,7 +101,7 @@
                 android:background="@drawable/bg_round_corners_large"
                 android:backgroundTint="?colorPrimary" />
         </LinearLayout>
-    </com.inator.calculator.views.DraggablePanel>
+    </com.smartgood.calculator.views.DraggablePanel>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

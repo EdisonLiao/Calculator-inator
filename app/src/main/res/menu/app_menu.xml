@@ -7,9 +7,4 @@
         android:title="@string/delete_history"
         android:visible="false"
         app:showAsAction="never" />
-    <item
-        android:id="@+id/action_settings"
-        android:icon="@drawable/ic_settings"
-        android:title="@string/title_activity_settings"
-        app:showAsAction="never" />
 </menu>

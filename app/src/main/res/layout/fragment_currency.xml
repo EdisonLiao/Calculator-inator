@@ -14,7 +14,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.inator.calculator.views.SearchableSpinner
+    <com.smartgood.calculator.views.SearchableSpinner
         android:id="@+id/currencySpinner1"
         style="@android:style/Widget.Material.Spinner"
         android:layout_width="0dp"
@@ -47,7 +47,7 @@
             android:textSize="36sp" />
     </com.google.android.material.textfield.TextInputLayout>
 
-    <com.inator.calculator.views.SearchableSpinner
+    <com.smartgood.calculator.views.SearchableSpinner
         android:id="@+id/currencySpinner2"
         style="@android:style/Widget.Material.Spinner"
         android:layout_width="0dp"

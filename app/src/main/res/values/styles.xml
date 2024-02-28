@@ -33,7 +33,6 @@
     </style>
 
     <style name="splash_screen" parent="Theme.AppCompat.DayNight.NoActionBar">
-        <item name="android:windowBackground">@drawable/splash</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
